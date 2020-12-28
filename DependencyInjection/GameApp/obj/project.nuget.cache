@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2RNTE1efucSDvdYX2CKZXN2e7OaxhgnzHfDVSPLmpoDzC1kYh9W9hOzme6kkFTuurp4URD6J8Wfm3UGP3Kkig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Umut\\Documents\\Projekte\\DependencyInjection\\ConsoleApp1\\ApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Umut\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

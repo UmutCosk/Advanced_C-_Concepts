@@ -1,0 +1,9 @@
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\bin\Debug\netstandard2.0\GameLibraryDemo.deps.json
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\bin\Debug\netstandard2.0\GameLibraryDemo.dll
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\bin\Debug\netstandard2.0\GameLibraryDemo.pdb
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.csprojAssemblyReference.cache
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.AssemblyInfoInputs.cache
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.AssemblyInfo.cs
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.dll
+C:\Users\Umut\Documents\Projekte\DependencyInjection\DemoClassLibrary\ClassLibrary1\obj\Debug\netstandard2.0\GameLibraryDemo.pdb

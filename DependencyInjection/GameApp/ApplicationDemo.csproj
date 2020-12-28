@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoClassLibrary\ClassLibrary1\GameLibraryDemo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GameLibraryDemo">
+      <HintPath>..\DemoClassLibrary\ClassLibrary1\bin\Debug\netstandard2.0\GameLibraryDemo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/184UNsDPYJ0jQIK6w/X7crDVl9fTv0uF7kBa06NaC+Z86kstFvcDBJ+nxf49aQRE5AMNq1lxys0Vy2rL0oBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Umut\\Documents\\Projekte\\DependencyInjection\\DemoClassLibrary\\ClassLibrary1\\GameLibraryDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Umut\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
